@@ -1,2 +1,2 @@
-# KaedeShinoda.github.io
-Github page.
+# About
+Nothing.
